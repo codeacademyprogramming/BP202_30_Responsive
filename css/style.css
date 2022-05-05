@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+.box{
+    width: 100%;
+    height: 200px;
+    background-color: gray;
+    border: 1px solid;
+}
+
+
